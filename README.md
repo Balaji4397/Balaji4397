@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Balaji Arunachalam
+- 👀 I’m interested in learning New Technologies such as ML and AI etc.,
+- 🌱 I’m currently learning AWS
+- 💞️ I’m AWS Certified Developer - Associate
+- 📫 You can reach me through mail: balaji.arun97@gmail.com 
+
+<!---
+Balaji4397/Balaji4397 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
