@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balaji Arunachalam
-- 👀 I’m interested in learning New Technologies such as ML and AI etc.,
+- 👀 I’m interested in Big Data Management.
 - 🌱 I’m currently learning AWS
 - 💞️ I’m AWS Certified Developer - Associate
 - 📫 You can reach me through mail: balaji.arun97@gmail.com 
